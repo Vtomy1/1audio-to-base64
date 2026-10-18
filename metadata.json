@@ -1,0 +1,6 @@
+{
+  "name": "Audio to Base64 Converter",
+  "description": "Clean, high-performance audio to Base64 encoder and decoder for web applications, with live audio player, Web Audio API analysis, batch conversion, and ready-to-use code snippets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
